@@ -4,3 +4,4 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log('Nova implementació punt 42');
 });
 
+function validateForm(value) { if (value === "") { return false; } return true; }
