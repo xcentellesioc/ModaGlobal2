@@ -1,0 +1,9 @@
+.header-principal {
+    font-weight: bold;
+    color: #333333; /* Gris molt fosc */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
